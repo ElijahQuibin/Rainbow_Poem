@@ -7,7 +7,7 @@ Orange
 Blue
 Green
 Indigo
-Recycle! Recycle! (had to add this)
+Recycle! Recycle! (Now will Pull Request)
 Unicorn
 Yellow
 Red
